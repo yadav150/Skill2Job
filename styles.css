@@ -1,0 +1,31 @@
+/* styles.css */
+.custom-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid #4D4D4D;
+  border-radius: 3px;
+  margin: auto;
+}
+
+.custom-table thead th {
+  padding: 6px;
+  border-bottom: 1px solid #4D4D4D;
+  text-align: center;
+  border-right: 1px solid #4D4D4D;
+  font-weight: normal;
+}
+
+.custom-table th {
+  padding: 6px;
+  border-bottom: 1px solid #4D4D4D;
+  text-align: left;
+  border-right: 1px solid #4D4D4D;
+  font-weight: normal;
+}
+
+.custom-table td {
+  padding: 6px;
+  border-bottom: 1px solid #4D4D4D;
+  text-align: center;
+}
